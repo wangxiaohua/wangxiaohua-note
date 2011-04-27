@@ -1,5 +1,10 @@
+markdown
 
-m installation
+http://happypeter.github.com/LGCB/book/toy_markdown.html
+
+vim
+
+vim installation
 
 sudo apt-get install vim # the hacker's Editor
 
@@ -78,4 +83,4 @@ http://happypeter.github.com/LGCB
 chinese input method
 
 https://github.com/happypeter/job-akae/wiki
-真的吗
+
